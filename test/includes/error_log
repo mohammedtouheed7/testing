@@ -1,0 +1,6 @@
+[06-Jul-2018 22:08:21 UTC] PHP Warning:  require_once(includes/connect.php): failed to open stream: No such file or directory in /home/lwy3ia6d5yq9/public_html/includes/save_details.php on line 2
+[06-Jul-2018 22:08:21 UTC] PHP Fatal error:  require_once(): Failed opening required 'includes/connect.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/lwy3ia6d5yq9/public_html/includes/save_details.php on line 2
+[06-Jul-2018 22:12:22 UTC] PHP Warning:  require_once(includes/connect.php): failed to open stream: No such file or directory in /home/lwy3ia6d5yq9/public_html/includes/save_details.php on line 2
+[06-Jul-2018 22:12:22 UTC] PHP Fatal error:  require_once(): Failed opening required 'includes/connect.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/lwy3ia6d5yq9/public_html/includes/save_details.php on line 2
+[06-Jul-2018 22:15:26 UTC] PHP Warning:  require_once(includes/connect.php): failed to open stream: No such file or directory in /home/lwy3ia6d5yq9/public_html/includes/save_details.php on line 2
+[06-Jul-2018 22:15:26 UTC] PHP Fatal error:  require_once(): Failed opening required 'includes/connect.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/lwy3ia6d5yq9/public_html/includes/save_details.php on line 2
